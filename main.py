@@ -6,6 +6,7 @@ import pyautogui as gui
 # %%
 old_coords = None
 done = False
+a = False
 
 
 def click(event):
